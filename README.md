@@ -26,3 +26,8 @@ cp .env.example .env.local
 npm install
 npm run dev
 ```
+
+## 배포 주소
+- 화면(Vercel): https://workshop-rental-level3-frontend-46x.vercel.app
+- 백엔드(Render): https://workshop-rental-level3-backend.onrender.com
+- 백엔드 저장소: https://github.com/leesh050471-tech/workshop-rental-level3-backend
